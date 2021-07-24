@@ -18,6 +18,6 @@ Now Connecting Database
 
 After Creating Database,
 
-9th Step: Open a browser and go to URL “http://localhost/Timetable Generator/ttms/index.php”
+9th Step: Open a browser and go to URL “http://localhost/ttms/ttms/index.php”
 Then run it and simply select roles for logging in.
 
