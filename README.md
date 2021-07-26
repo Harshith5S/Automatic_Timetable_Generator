@@ -1,5 +1,5 @@
-# ttms
- dbms project
+# timetable_management_system
+ dbms project using php
 
  After Starting Apache and MySQL in XAMPP, follow the following steps
 
