@@ -1,23 +1,23 @@
 # timetable_management_system
  dbms project using php
 
- After Starting Apache and MySQL in XAMPP, follow the following steps
+ after starting apache and mysql in xampp, follow the following steps
 
 
-1st Step: Extract file
-2nd Step: Copy the main project folder
-3rd Step: Paste in xampp/htdocs/
+1st step: extract file
+2nd step: copy the main project folder
+3rd step: paste in xampp/htdocs/
 
-Now Connecting Database
+now connecting database
 
-4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
-5th Step: Then, click on the databases tab
-6th Step: Create a database naming “ttms” and then click on the import tab
-7th Step: Click on browse file and select “ttms.sql” file which is inside “DATABASE” folder
-8th Step: Click on go.
+4th step: open a browser and go to url “http://localhost/phpmyadmin/”
+5th step: then, click on the databases tab
+6th step: create a database naming “ttms” and then click on the import tab
+7th step: click on browse file and select “ttms.sql” file which is inside “database” folder
+8th step: Click on go.
 
-After Creating Database,
+after creating database,
 
-9th Step: Open a browser and go to URL “http://localhost/ttms/ttms/index.php”
-Then run it and simply select roles for logging in.
+9th step: open a browser and go to url “http://localhost/ttms/ttms/index.php”
+then run it and simply select roles for logging in.
 
