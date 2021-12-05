@@ -1,4 +1,4 @@
-# automatic_timetable_generator
+# Automatic_Timetable_Generator
  dbms project using php
 
  after starting apache and mysql in xampp, follow the following steps
